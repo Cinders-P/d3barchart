@@ -16,10 +16,10 @@ body {
 }
 
 #title {
-    left: 25%;
+    left: 30%;
     position: absolute;
     padding-top: 5vh;
-    font-size: 5rem;
+    font-size: 4rem;
     opacity: 0.5;
     color: white;
     font-family: sans-serif;
@@ -40,7 +40,7 @@ body {
 }
 
 #title span {
-    font-size: 10rem;
+    font-size: 7rem;
 }
 
 .chart rect:hover {
